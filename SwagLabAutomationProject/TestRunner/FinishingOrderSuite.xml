@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="Finishing Order Suite">
+    <test name="Finishing Order  Test">
+        <classes>
+            <class name="Tests.TC06_FinishingOrderTest"/>
+        </classes>
+    </test>
+</suite>
